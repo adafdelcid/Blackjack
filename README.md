@@ -5,7 +5,7 @@ This is a simple Blackjack game for a single player!
 Complete BlackJack Card Game in Python
 
 ##Criteria:
-Create a simple text-based BlackJack game
+Create a simple text-based BlackJack game.
 The game needs to have one player versus an automated dealer.
 The player can stand or hit.
 The player must be able to pick their betting amount.
